@@ -24,6 +24,7 @@ public class BulletPool : MonoBehaviour {
 
             bullets[i] = Instantiate(bullet, new Vector3(0, -i, 0), origen.transform.localRotation);
             bullets[i].SetActive(false);
+            Debug.Log("Start was changed");
 
         }
         
