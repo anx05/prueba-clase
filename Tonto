@@ -1,0 +1,9 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class NoCallas : MonoBehaviour
+
+void Start(){
+if(eres tonto,es que eres tonto)
+Destroy();
+}
